@@ -1,3 +1,5 @@
+## https://discord.gg/CEt3w9Pe
+
 ## Zadanie 1 – Proste testy jednostkowe
 
 W pliku znajduje się funkcja `is_even(n)`, która sprawdza, czy liczba jest parzysta.
